@@ -1,0 +1,9 @@
+{
+  "name": "napi-userland",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@shisama/napi-sample": "^0.1.0"
+  }
+}
